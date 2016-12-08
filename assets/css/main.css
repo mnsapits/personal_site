@@ -1785,6 +1785,10 @@
 			margin-bottom: 0;
 		}
 
+		.img-thumb {
+			border-radius: 20%;
+		}
+
 		.box.style1 {
 			background: #fff;
 			padding: 3em;
